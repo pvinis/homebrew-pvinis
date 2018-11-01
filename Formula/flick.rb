@@ -3,8 +3,8 @@ require "language/node"
 class Flick < Formula
   desc "🌝 🌚 Switch between light and dark mode, and have all your tools swap!"
   homepage "https://github.com/pvinis/flick"
-  url "https://github.com/pvinis/flick/archive/version/0.1.0.tar.gz"
-  sha256 "c5de968a40c4a9a4605da43610b02af8d7c0e19f1baaedb10ee5ce6c2d9509ad"
+  url "https://github.com/pvinis/flick/archive/version/0.2.2.tar.gz"
+  sha256 "a22557d6be31525bb3302c1e23f4737cd6dff37eef1370e224bc5e92362ca9e4"
 
   bottle :unneeded
 
