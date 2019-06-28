@@ -8,7 +8,7 @@ class Pomo < Formula
   sha256 "506319c7f73ada394473b7be07d2eade16374a2682c497feea5f5d51ccf10b26"
 
   def install
-    mv "#{name}" pomo
+    mv "#{name}", "pomo"
     bin.install Dir["./*"]
   end
 
