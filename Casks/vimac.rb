@@ -7,5 +7,5 @@ cask 'vimac' do
   name 'vimac'
   homepage 'https://github.com/dexterleng/vimac'
 
-  app '0 A.D.app'
+  app 'Vimac.app'
 end
