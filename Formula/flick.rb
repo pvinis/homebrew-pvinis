@@ -5,6 +5,7 @@ class Flick < Formula
   homepage "https://github.com/pvinis/flick"
   url "https://github.com/pvinis/flick/archive/version/0.2.2.tar.gz"
   sha256 "a22557d6be31525bb3302c1e23f4737cd6dff37eef1370e224bc5e92362ca9e4"
+  deprecate! date: "2021-12-13", because: "is not developed anymore"
 
   bottle :unneeded
 
