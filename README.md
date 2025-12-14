@@ -1,8 +1,9 @@
-homebrew-pvinis
-===============
+# homebrew-pvinis
 
-pvinis Homebrew formulas (currently only colortools).
+Homebrew formulas for some of my projects and other projects I find useful.
 
-## Tap
-	$ brew tap pvinis/pvinis
+## Install Tap
 
+```sh
+brew tap pvinis/pvinis
+```
