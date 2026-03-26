@@ -1,8 +1,8 @@
 class DarkScripter < Formula
   desc "Listen for macOS dark/light mode changes and run user scripts"
   homepage "https://github.com/pvinis/dark-scripter"
-  url "https://github.com/pvinis/dark-scripter/releases/download/v1.2.0/dark-scripter-macos-universal.zip"
-  sha256 "dff68c32f6b9332b8e9f75d0ff8fce2df7436082ac0a692436ced0f53e092e9d"
+  url "https://github.com/pvinis/dark-scripter/releases/download/v1.2.1/dark-scripter-macos-universal.zip"
+  sha256 "4dca641d73af40e9ab9b4777ee2a1a0a510d2dbaac1460326938e0fa89243bb5"
   license "MIT"
 
   depends_on :macos
